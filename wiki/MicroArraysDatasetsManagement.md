@@ -1,3 +1,11 @@
-# MicroArrays Analysis Under Galaxy
+# MicroArrays Datasets Management
 
-A hands on the galaxy instance at http://galaxym.sanbi.ac.za/ for microarrays analysis.
+## Query GEO Database
+![MicroArrays Analysis Workflow]({{site.baseurl}}/First_009.png)
+## Upload Local Files
+![MicroArrays Analysis Workflow]({{site.baseurl}}/First_0012.png)
+## Make Design
+![MicroArrays Analysis Workflow]({{site.baseurl}}/First_014.png)
+
+
+
