@@ -2,7 +2,7 @@
 title: Galaxy for MicroArray 
 description: Galaxy MicroArray Hands On
 show_downloads: false
-show_wiki_pages: true
+show_wiki_pages: false
 show_wiki_pages_limit: 10
 paginate: 5
 paginate_path: "/blog/page:num"
