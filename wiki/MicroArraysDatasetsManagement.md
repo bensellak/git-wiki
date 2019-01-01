@@ -2,7 +2,7 @@
 
 # Query GEO Database
 
-![Query GEO Database]({{site.baseurl}}/assets/images/First_009.png)
+![Query GEO Database]({{relative_url}}/assets/images/First_009.png)
 
 # Upload Local Files
 
