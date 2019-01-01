@@ -2,12 +2,12 @@
 
 # Query GEO Database
 
-![Query GEO Database]({{site.baseurl}}/First_009.png)
+![Query GEO Database]({{site.baseurl}}/assets/images/First_009.png)
 
 # Upload Local Files
 
-![Upload Local Files]({{site.baseurl}}/First_0012.png)
+![Upload Local Files]({{site.baseurl}}/assets/images/First_0012.png)
 
 # Make Design
 
-![Make Design]({{site.baseurl}}/First_014.png)
+![Make Design]({{site.baseurl}}/assets/images/First_014.png)
