@@ -1,16 +1,17 @@
-## MicroArrays Datasets Management
+## MicroArrays Statistical Analysis
 
-# Query GEO Database
-![Query GEO Database]({{site.baseurl}}/wiki/Selection_016.png)
-# Upload Local Files
-![Upload Local Files]({{site.baseurl}}/wiki/Selection_017.png)
-# Make Design
-![Make Design]({{site.baseurl}}/wiki/First_014.png)
-# Read Datasets
-![Selection_018.png]({{site.baseurl}}/wiki/Selection_018.png)
-# History Datasets
-![First_010.png]({{site.baseurl}}/wiki/First_010.png)
+# T Test
+![Selection_024.png]({{site.baseurl}}/wiki/Selection_024.png)
 
-![First_015.png]({{site.baseurl}}/wiki/First_015.png)
+# FCROS Test
+![Selection_022.png]({{site.baseurl}}/wiki/Selection_022.png)
 
-![Selection_019.png]({{site.baseurl}}/wiki/Selection_019.png)
+# SAM Test
+![Selection_023.png]({{site.baseurl}}/wiki/Selection_023.png)
+
+# RankProd Test
+![Selection_025.png]({{site.baseurl}}/wiki/Selection_025.png)
+
+# Twilight Test
+
+
